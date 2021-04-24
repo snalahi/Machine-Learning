@@ -319,3 +319,5 @@ if __name__ == '__main__':
         # TODO: Test model on testing set
         scores_test = model.score(x_test, y_test)
         print('Testing set mean accuracy: {:.4f}'.format(scores_test))
+
+        
