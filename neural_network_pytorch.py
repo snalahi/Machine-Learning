@@ -387,3 +387,4 @@ if __name__ == '__main__':
         net=net,
         dataloader=dataloader_test,
         classes=classes)
+    
