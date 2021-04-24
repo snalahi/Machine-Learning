@@ -522,4 +522,3 @@ if __name__ == '__main__':
         # TODO: Test model on testing set
         score_mse_grad_descent_test = score_mean_squared_error(ridge_grad_descent, x_test, y_test)
         print('Testing set mean squared error: {:.4f}'.format(score_mse_grad_descent_test))
-
