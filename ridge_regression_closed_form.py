@@ -648,4 +648,3 @@ if __name__ == '__main__':
     plt.suptitle('Our Ridge Regression on Training, Validation and Testing Sets')
 
     plt.show()
-
