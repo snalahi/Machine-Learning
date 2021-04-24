@@ -690,4 +690,3 @@ if __name__ == '__main__':
     plt.suptitle('Our Polynomial Expansion on Training, Validation and Testing Sets')
 
     plt.show()
-
