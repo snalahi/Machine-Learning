@@ -9,6 +9,8 @@ TODO: Report what each member did in this project
 All the works associated with coding the entire program and writing the project report
 were done by myself
 
+In this project, I built a convolutional neural network to denoise images using the VOC
+dataset. Only the images from that dataset were used to train and test the model.
 '''
 
 
