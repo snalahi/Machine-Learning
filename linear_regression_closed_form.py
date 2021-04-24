@@ -304,3 +304,5 @@ if __name__ == '__main__':
 
         scores_r2_test = model.score(predictions_test, y_test, scoring_func='r_squared')
         print('Testing set r-squared scores: {:.4f}'.format(scores_r2_test))
+
+        
